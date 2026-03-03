@@ -3,3 +3,4 @@ Dziennik praktyk
 zapoznałem się z biblioteką requests
 zapoznałem się z API MediaWiki
 napisałem skrypt, który pobiera tekst z Wikipedii i zapisuje go do pliku JSON
+jk
